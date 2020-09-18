@@ -8,12 +8,12 @@ Nishida S, Blanc A, Maeda N, Kado M, Nishimoto S. (2020) Behavioral correlates o
 
 ## Requirements
 
-You need to install the softwares below.
+You need to install the softwares below:
 
 * FreeSurfer ([link](https://surfer.nmr.mgh.harvard.edu/))
 * ImageMagick ([link](https://imagemagick.org/))
 
-You also need to install the Python libraries below.
+You also need to install the Python libraries below:
 
 * nibabel ([link](https://nipy.org/nibabel/))
 * mayavi ([link](https://mayavi.readthedocs.io/))

@@ -4,7 +4,7 @@ This repository contains the experimental data and code used for generating figu
 
 ## Reference
 
-Nishida S, Blanc A, Maeda N, Kado M, Nishimoto S. (2020) Behavioral correlates of cortical semantic representations modeled by word vectors. bioRxiv 2020.08.06.240705. [link](https://www.biorxiv.org/content/10.1101/2020.08.06.240705v2)
+Nishida S, Blanc A, Maeda N, Kado M, Nishimoto S. Behavioral correlates of cortical semantic representations modeled by word vectors. PLOS Computational Biology, 17(6): e1009138. [link](https://doi.org/10.1371/journal.pcbi.1009138)
 
 ## Requirements
 
